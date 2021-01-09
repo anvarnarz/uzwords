@@ -1,0 +1,2 @@
+# uzwords
+Uzbek words
